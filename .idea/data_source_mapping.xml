@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/backend/migrations/001_initial.sql" value="dc92d138-7623-407d-b132-59e68d6b23b0" />
+    <file url="file://$PROJECT_DIR$/init.sql" value="dc92d138-7623-407d-b132-59e68d6b23b0" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/dc92d138-7623-407d-b132-59e68d6b23b0/console.sql" value="dc92d138-7623-407d-b132-59e68d6b23b0" />
+  </component>
+</project>
